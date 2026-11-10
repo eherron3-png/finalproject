@@ -1,6 +1,6 @@
 # [Project title]
 
-**Question:** [Can we flag brute-force login attempts in an authentication log?]
+**Question:** [Can we flag brute-force login attempts in an authentication log? ]
 
 **Track:** [Cybersecurity]
 
@@ -25,4 +25,3 @@ pytest -q          # run the tests
 | Name | GitHub | Role |
 |---|---|---|
 | [Evan Herron] | @[eherron3-png] | Repository owner |
-| Evan Herron | @eherron3-png | Data Loading |
