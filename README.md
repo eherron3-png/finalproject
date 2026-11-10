@@ -25,3 +25,4 @@ pytest -q          # run the tests
 | Name | GitHub | Role |
 |---|---|---|
 | [Evan Herron] | @[eherron3-png] | Repository owner |
+| Evan Herron | @eherron3-png | Data Loading |
