@@ -1,0 +1,18 @@
+# Raw data: never committed (large and/or private)
+data/raw/*
+!data/raw/.gitkeep
+
+# Secrets
+.env
+*.key
+
+# Python and notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# Outputs created by running the pipeline
+results/
+*.log
